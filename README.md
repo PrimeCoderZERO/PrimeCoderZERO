@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PrimeCoderZERO)
 
-## I am a Frontend and Backend Developer
+## I am a Frontend 
 - 💪 I love writing code
 - 🥅 I am constantly learning new things
 - ⚡ I like to write articles
